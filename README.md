@@ -4,7 +4,7 @@ Desenvolvi este portal para aproximar o gabinete da população e reunir, em um 
 
 [Acessar a demonstração](https://portal-do-vereador-vercel.vercel.app/)
 
-![Página inicial do Portal do Vereador](docs/images/01.png)
+![Página inicial do Portal do Vereador](docs/images/01.jpg)
 
 ## O que o projeto resolve
 
@@ -26,13 +26,13 @@ Também desenvolvi uma central de oportunidades: empresas parceiras divulgam vag
 
 Criei uma entrada com apresentação do vereador, informações do mandato e caminhos diretos para requerimentos, sugestões, notícias e contato. O visitante pode conhecer o trabalho do gabinete e iniciar um atendimento sem criar uma conta.
 
-![Serviços e acesso do cidadão](docs/images/03.png)
+![Serviços e acesso do cidadão](docs/images/03.jpg)
 
 <details>
 <summary>Ver apresentação e informações do mandato</summary>
 
-![Informações do mandato](docs/images/02.png)
-![Apresentação do vereador](docs/images/04.png)
+![Informações do mandato](docs/images/02.jpg)
+![Apresentação do vereador](docs/images/04.jpg)
 
 </details>
 
@@ -40,26 +40,26 @@ Criei uma entrada com apresentação do vereador, informações do mandato e cam
 
 Conectei a participação das empresas à área do cidadão: as empresas publicam as oportunidades e os cidadãos autenticados podem se candidatar. O gabinete acompanha esse fluxo junto às demais atividades da plataforma.
 
-![Entrada da central de oportunidades](docs/images/05.png)
-![Painel de gestão de vagas da empresa](docs/images/15.png)
+![Entrada da central de oportunidades](docs/images/05.jpg)
+![Painel de gestão de vagas da empresa](docs/images/15.jpg)
 
 ## Atendimento e demandas
 
 Implementei canais de contato público e atendimento autenticado. As demandas são organizadas por status, com acompanhamento pela equipe e pelo vereador. As capturas originais dos painéis internos contêm dados individuais e não estão incluídas nesta galeria.
 
-![Contato público com o gabinete](docs/images/06.png)
+![Contato público com o gabinete](docs/images/06.jpg)
 
 ## Orientação durante o uso
 
 Adicionei tours específicos para os perfis, com explicações sobre botões, notificações e tarefas de cada área. A proposta é facilitar o primeiro acesso e tornar os recursos mais fáceis de descobrir.
 
-![Tour do painel da empresa](docs/images/16.png)
+![Tour do painel da empresa](docs/images/16.jpg)
 
 ## Previsão do tempo
 
 Incluí uma página de previsão do tempo e informações climáticas integradas à navegação do portal.
 
-![Página de previsão do tempo](docs/images/20.png)
+![Página de previsão do tempo](docs/images/20.jpg)
 
 ## Tecnologias presentes no código
 
